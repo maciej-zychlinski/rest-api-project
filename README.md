@@ -1,3 +1,9 @@
 # REST API PROJECT
 
-Nothing here yet!
+## Short Overview
+
+Python REST API project using Flask and SQLalchemy
+
+## TODO:
+
+Update readme
