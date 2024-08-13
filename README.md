@@ -1,3 +1,3 @@
 # REST API PROJECT
 
-Nothing here yet!
+Python REST API project with Flask and SQLalchemy
