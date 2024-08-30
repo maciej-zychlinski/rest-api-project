@@ -43,7 +43,7 @@ class User(MethodView):
     """
     This resource can be useful when testing our Flask app.
     We may not want to expose it to public users, but for the
-    sake of demonstration in this course, it can be useful
+    sake of demonstration, it can be useful
     when we are manipulating data regarding the users.
     """
 
